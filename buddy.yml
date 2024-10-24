@@ -1,6 +1,4 @@
-- pipeline: rbcvbttvke
-  events:
-  - type: PUSH
-    refs:
-    - refs/heads/master
-    - yspaaoosyr
+- pipeline: sibsgovfko
+  on: SCHEDULE
+  start_date: 2024-10-24T20:41:13Z
+  delay: 1
